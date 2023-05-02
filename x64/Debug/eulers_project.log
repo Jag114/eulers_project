@@ -1,0 +1,10 @@
+﻿  eulers_project.cpp
+D:\Projekty\eulers_project\eulers_project.cpp(17,12): warning C4129: '%': unrecognized character escape sequence
+D:\Projekty\eulers_project\eulers_project.cpp(41,16): warning C4129: '%': unrecognized character escape sequence
+D:\Projekty\eulers_project\eulers_project.cpp(44,12): warning C4129: '%': unrecognized character escape sequence
+D:\Projekty\eulers_project\eulers_project.cpp(67,12): warning C4129: '%': unrecognized character escape sequence
+D:\Projekty\eulers_project\eulers_project.cpp(69,12): warning C4244: 'return': conversion from '__int64' to 'long', possible loss of data
+D:\Projekty\eulers_project\eulers_project.cpp(98,12): warning C4129: '%': unrecognized character escape sequence
+D:\Projekty\eulers_project\eulers_project.cpp(99,12): warning C4129: '%': unrecognized character escape sequence
+D:\Projekty\eulers_project\eulers_project.cpp(101,12): warning C4129: '%': unrecognized character escape sequence
+  eulers_project.vcxproj -> D:\Projekty\eulers_project\x64\Debug\eulers_project.exe
